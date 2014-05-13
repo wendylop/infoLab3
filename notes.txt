@@ -1,0 +1,2 @@
+// First step
+I created a directory and created a text file
