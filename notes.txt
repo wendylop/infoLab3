@@ -1,5 +1,0 @@
-// First step
-I created a directory and created a text file
-
-// Second step
-Changing the text file. Discarding the changes. Adding changes.
